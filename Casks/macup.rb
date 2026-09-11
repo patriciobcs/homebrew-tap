@@ -1,6 +1,6 @@
 cask "macup" do
   version "1.0.0"
-  sha256 "86f5b9bae2020a7cf1b730b887a7fdb15ce72306f2018ebd2b9a917c815b4dd6"
+  sha256 "00e35cf9fabe915188cd8c85e81485e79b3adb478ba17945c1b076a5c1825ea7"
 
   url "https://github.com/patriciobcs/macup/releases/download/v#{version}/MacUp.dmg"
   name "MacUp"
